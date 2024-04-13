@@ -1,1 +1,2 @@
-# NeoForge-Wrapper
+# NeoForge Wrapper
+Used to launch NeoForge servers
